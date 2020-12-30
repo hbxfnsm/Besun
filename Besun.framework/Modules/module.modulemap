@@ -1,0 +1,6 @@
+framework module Besun {
+  umbrella header "Besun.h"
+
+  export *
+  module * { export * }
+}
